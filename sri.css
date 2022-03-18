@@ -1,0 +1,36 @@
+.header{
+background-color:green;
+height:10%;
+float:top
+}
+.footer{
+color:red;
+background-color:blue;
+height:6%;
+float:bottom;
+text-align:center;
+}
+.btndiv{
+padding:15px;
+}
+.btndiv1{
+	padding:20px;
+}
+
+
+#loin{
+	
+	float:right;
+}
+.button {
+    /* display: block; */
+    width: 70px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
